@@ -1,5 +1,8 @@
-# 🏥 Website SmartHealth
+# 🏥🩺 SmartHealth 
 
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1fCeFT0dsEAmcPZy-KGR3152-vs9BDB9h)
+
+(Smart solution to create a smart village, especially the "smart living" pillar)
 SmartHealth is a web-based platform designed to simplify the registration and queue management process at community health centers (puskesmas) in Sidoarjo. Users can select their preferred health center, clinic, and arrival time according to their needs. The health center admins can also manage queues and provide real-time health information.
 
 ## Project Description
@@ -8,7 +11,7 @@ SmartHealth is aimed at improving the healthcare service experience by offering 
 
 ## 🌟 Key Features
 
-### 👩‍⚕️ Patient Features
+### 🙋🏼‍♂️🙋🏼‍♀️ Patient Features👨🏼‍💻🧕🏼🙍🏼‍♂️🙋🏼‍♂️🙋🏼‍♀️🩺💊
 - **Queue Registration & Cancellation**: Patients can easily register or cancel their queue for a selected clinic.
 - **Queue Status**: Real-time information about the registered and currently served patients in the queue.
 - **Health Announcements**: Access to important health-related announcements for the local area.
@@ -17,7 +20,7 @@ SmartHealth is aimed at improving the healthcare service experience by offering 
 - **Emergency Services Information**: Quick access to emergency contact numbers for ambulance services, SAR team, firefighters, and the police.
 - **Health Center Details**: View detailed information about each puskesmas, including location, operating hours, doctors on duty, and contact information.
 
-### 🛠️ Admin Features
+### 🛠️👨🏼‍💻 Admin Features
 - **Login & Logout**: Secure access to the admin panel.
 - **Queue Management**: Admins can manage and monitor the status of patient queues.
 - **Manage Data & Queue History**: Archive queue data for further analysis.
@@ -57,12 +60,12 @@ SmartHealth is aimed at improving the healthcare service experience by offering 
 - **Database**: MySQL
 
 ## 👥 Development Team
+- Navy Nurlyn A.
 - Fathimatus Z. N.
 - Ganes Dwi F.
-- Navy Nurlyn A.
 
 ## 🎓 Project Objective
-This project was developed to fulfill the final assignment for the Web Programming and Information Systems Project Management (MPSI) course in the spring semester of 2024.
+This project was developed to fulfill the final project for the Web Programming and Information Systems Project Management (MPSI) course.
 
 ## 🚀 How to Run the Project
 
