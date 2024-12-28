@@ -1,5 +1,6 @@
 # 🏥🩺 SmartHealth 
 
+
 ![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1fCeFT0dsEAmcPZy-KGR3152-vs9BDB9h)
 
 (Smart solution to create a smart village, especially the "smart living" pillar)
@@ -11,7 +12,7 @@ SmartHealth is aimed at improving the healthcare service experience by offering 
 
 ## 🌟 Key Features
 
-### 🙋🏼‍♂️🙋🏼‍♀️ Patient Features👨🏼‍💻🧕🏼🙍🏼‍♂️🙋🏼‍♂️🙋🏼‍♀️🩺💊
+### 🙋🏼‍♂️🙋🏼‍♀️ Patient Features
 - **Queue Registration & Cancellation**: Patients can easily register or cancel their queue for a selected clinic.
 - **Queue Status**: Real-time information about the registered and currently served patients in the queue.
 - **Health Announcements**: Access to important health-related announcements for the local area.
@@ -66,6 +67,16 @@ SmartHealth is aimed at improving the healthcare service experience by offering 
 
 ## 🎓 Project Objective
 This project was developed to fulfill the final project for the Web Programming and Information Systems Project Management (MPSI) course.
+
+## Screenshot of the Project
+
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1QvARPEMzHhKpmJJ6HQpj-vUFNdY6hJMO)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1A07Dc7tTvdcYhuHceHuErqQcaTwWjuB9)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1sLdXrxUfEM2io1kOEopdlNYi_5NokUFa)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1E1OYdW0RV0IksXj6nJHP8_83heltrJbz)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1lbEVrDbYCJ9gPDUzzCWxqc1WQrJXiPUr)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1Dl0gdb1lzem3T_lWOaTlu0knHJBJJiPB)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1Nc4uO3JO-2-7SE-ubcoIU699BpwvmTsG)
 
 ## 🚀 How to Run the Project
 
