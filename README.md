@@ -61,15 +61,17 @@ SmartHealth is aimed at improving the healthcare service experience by offering 
 - **Database**: MySQL
 
 ## 👥 Development Team
-- Navy Nurlyn A.
-- Fathimatus Z. N.
-- Ganes Dwi F.
+- Navy Nurlyn Ajrina
+- Fathimatus Zahrotun Nisa'
+- Ganes Dwi Febrianti
 
 ## 🎓 Project Objective
 This project was developed to fulfill the final project for the Web Programming and Information Systems Project Management (MPSI) course.
 
 ## Screenshot of the Project
 
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1fCeFT0dsEAmcPZy-KGR3152-vs9BDB9h)
+![SmartHealth Logo](https://drive.google.com/uc?export=view&id=15HAI5pr6Jr53tvThkfS3fszEto8fCL1t)
 ![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1QvARPEMzHhKpmJJ6HQpj-vUFNdY6hJMO)
 ![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1A07Dc7tTvdcYhuHceHuErqQcaTwWjuB9)
 ![SmartHealth Logo](https://drive.google.com/uc?export=view&id=1sLdXrxUfEM2io1kOEopdlNYi_5NokUFa)
